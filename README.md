@@ -1,6 +1,6 @@
 # -Ecomerce-Clothing
 
-_Aplicación web desarrollada con stack mern. _ Con el equipo acordamos crear un sitio ecomerce de indumentaria._
+_Aplicación web desarrollada con stack mern._ Con el equipo acordamos crear un sitio ecomerce de indumentaria._
 _Este proyecto fue una instancia evaluativa en el bootcamp realizado en mindhub_
 
 ## Demo 📦
