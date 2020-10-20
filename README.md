@@ -87,7 +87,7 @@ _Proyecto realizado de manera grupal_
 * **Paulina Vaira** - *integrante del grupo*
 * **Luciana Mendez** - *integrante del grupo*
 * **Yimy Llanos** - *integrante del grupo*
-* **Rusbent Matta** - *integrante del grupo* *versionado y documentación* [nulltu](https://github.com/nulltu)
+* **Rusbent Matta** - *integrante del grupo*,*versionado y documentación* [nulltu](https://github.com/nulltu)
 
 ## Licencia 📄
 
