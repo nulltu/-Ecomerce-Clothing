@@ -5,7 +5,7 @@ _Este proyecto fue una instancia evaluativa en el bootcamp realizado en mindhub_
 
 ## Demo 📦
 
-_Para ver una demo del proyecto desplegado, puedes ir a [Demo del proyecto](https://http://pyral.herokuapp.com//)_
+_Para ver una demo del proyecto desplegado, puedes ir a [Demo del proyecto](http://pyral.herokuapp.com/)_
 
 ## Comenzando 🚀
 
@@ -87,7 +87,7 @@ _Proyecto realizado de manera grupal_
 * **Paulina Vaira** - *integrante del grupo*
 * **Luciana Mendez** - *integrante del grupo*
 * **Yimy Llanos** - *integrante del grupo*
-**Rusbent Matta** - *integrante del grupo* *versionado y documentación* [nulltu](https://github.com/nulltu)
+* **Rusbent Matta** - *integrante del grupo* *versionado y documentación* [nulltu](https://github.com/nulltu)
 
 ## Licencia 📄
 
