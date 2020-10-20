@@ -64,7 +64,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [React](https://es.reactjs.org/) - Framework utilizado
 * [Redux](https://es.redux.js.org/) - Utilizado para trabajar con un estado global
 
-## Librerias de React utilizadas 
+## Librerias de React utilizadas :file_folder:
     "react-google-login": "^5.1.21",
     "react-image-magnifiers": "^1.4.0",
     "react-player": "^2.6.2",
