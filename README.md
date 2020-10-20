@@ -1,7 +1,7 @@
 # -Ecomerce-Clothing
 
 _Aplicación web desarrollada con stack MERN. Con el equipo acordamos crear un sitio ecomerce de indumentaria_
-_Este proyecto fue una instancia evaluativa en el bootcamp realizado en mindhub_
+_Este proyecto fue una instancia evaluativa en el bootcamp realizado en mindhub._
 
 ## Demo 📦
 
